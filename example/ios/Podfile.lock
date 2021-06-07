@@ -1,0 +1,22 @@
+PODS:
+  - dart_ffii_static_link_issue (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - dart_ffii_static_link_issue (from `.symlinks/plugins/dart_ffii_static_link_issue/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  dart_ffii_static_link_issue:
+    :path: ".symlinks/plugins/dart_ffii_static_link_issue/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  dart_ffii_static_link_issue: d612210437fa1e19da15d9dfc761f1961c0facd7
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
