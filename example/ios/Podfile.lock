@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
     :path: Flutter
 
 SPEC CHECKSUMS:
-  dart_ffii_static_link_issue: b0b26bad7b5375470f55f74c6b0abe5eb12aae01
+  dart_ffii_static_link_issue: 3a30421492d89394c5297846024757b0b246850b
   Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
 
 PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
